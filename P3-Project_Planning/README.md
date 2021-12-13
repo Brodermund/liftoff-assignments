@@ -7,13 +7,11 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://www.figma.com/file/nrnS0g100d9uFQOMoN04Hs/Calendar-of-ultimate-destiny-wireframe?node-id=17%3A5
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/Qz9PF7P2/liftoff-project-board
 
 ### Project Repo Link
+https://github.com/Derek-s-Group-LaunchCode-Liftoff/calendar-of-destiny
 
-Include a link to your project on GitHub.
